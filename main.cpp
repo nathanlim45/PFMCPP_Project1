@@ -117,13 +117,13 @@ chicken.escapeCage();
 //  action 3:   run
 chicken.run();
 //  9)
-//  Noun:       person
-//  action 1:   wear
-person.wear();
-//  action 2:   walk
-person.walk();
-//  action 3:   work
-person.work();
+//  Noun:       amp eq
+//  action 1:   boost bass frequency
+ampEqualizer.boostBass();
+//  action 2:   cut treble frequency
+ampEqualizer.cutTreble();
+//  action 3:   set default eq
+ampEqualizer.setDefault();
 //  10)
 //  Noun:       airplane   
 //  action 1:   take off
